@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "particle-field",
+    "title": "Particle Field",
+    "date": "2026-11-19",
+    "tags": ["particles", "three.js"],
+    "description": "Forty thousand additive particles drifting through a wave field, built with three.js."
+  },
+  {
+    "slug": "plasma-drift",
+    "title": "Plasma Drift",
+    "date": "2026-11-12",
+    "tags": ["shader", "noise"],
+    "description": "A full-screen fragment shader: domain-warped fBm noise with a cosine palette."
+  }
+]
